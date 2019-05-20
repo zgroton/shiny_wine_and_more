@@ -7,11 +7,11 @@
 #    http://shiny.rstudio.com/
 #
 
-require(readr)
-require(tidyr)
-require(dplyr)
-require(shiny)
-require(rhandsontable)
+require(readr) #Version 1.3.1
+require(tidyr) #Version 0.8.3
+require(dplyr) #Version 0.8.1
+require(shiny) #Version 1.3.2
+require(rhandsontable) # 0.3.7
 
 ###### BEGINNING OF SETUP SUBROUTINE ######
 

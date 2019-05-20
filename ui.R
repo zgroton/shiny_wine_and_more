@@ -7,9 +7,9 @@
 #    http://shiny.rstudio.com/
 #
 
-require(shiny)
-require(shinythemes)
-require(rhandsontable)
+require(shiny) #Version 1.3.2
+require(shinythemes) #Version 1.1.2
+require(rhandsontable) #Version 0.3.7
 
 # Define UI for Application
 ui <- tagList(
